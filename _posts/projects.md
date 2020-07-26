@@ -1,9 +1,11 @@
 ---
-layout: archives
+layout: archive
 permalink: /projects/
 title: "Research projects"
 author_profile: true
 ---
+
+test 
 
 {% include base_path %}
 {% include group-by-array collection=site.posts field="tags" %}
