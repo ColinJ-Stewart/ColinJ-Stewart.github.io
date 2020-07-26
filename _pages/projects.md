@@ -1,13 +1,12 @@
 ---
 layout: archive
-permalink: /projects/
+permalink: /research-projects/
 title: "Research projects by Tags"
 author_profile: true
 ---
 
 test 
 
-{% include base_path %}
 {% include group-by-array collection=site.posts field="tags" %}
 
 {% for tag in group_names %}
