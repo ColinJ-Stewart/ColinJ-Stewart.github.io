@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /projects/
-title: "Research projects"
+title: "Research projects by Tags"
 author_profile: true
 ---
 
