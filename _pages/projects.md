@@ -3,9 +3,7 @@ layout: archive
 permalink: /research-projects/
 title: "Research projects by Tags"
 author_profile: true
----
-
-test 
+--- 
 
 {% include group-by-array collection=site.posts field="tags" %}
 
