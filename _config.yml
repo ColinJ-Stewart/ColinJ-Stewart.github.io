@@ -93,7 +93,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Colin Stewart"
+  name             : ""
   avatar           : "/assets/images/headshot.jpg"
   bio              : "Research portfolio"
   location         : "Atlanta, GA"
